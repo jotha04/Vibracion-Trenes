@@ -1,0 +1,19 @@
+{
+    "scaler_mean": 0.029714878885616674,
+    "scaler_scale": 0.041431762105924134,
+    "model_coef": 6.031351439182596,
+    "model_intercept": 1.6768803423244667,
+    "threshold": 0.5,
+    "fs": 10000,
+    "window_pre_peak": 200,
+    "window_post_peak": 2000,
+    "nperseg": 2048,
+    "bands": {
+        "high_min": 1500,
+        "high_max": 5000,
+        "low_min": 100,
+        "low_max": 500,
+        "mid_min": 500,
+        "mid_max": 1500
+    }
+}
