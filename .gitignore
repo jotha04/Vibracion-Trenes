@@ -1,37 +1,16 @@
-# ==============================================================================
-# INDUTRONICA SHM-ML - Git Ignore Configuration
-# ==============================================================================
-
-# --- Python & Bytecode ---
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
 
-# --- Virtual Environments ---
 .venv/
 venv/
 env/
-ENV/
 
-# --- OS Metadata ---
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
-Desktop.ini
-
-# --- IDEs & Editors ---
 .idea/
 .vscode/
-*.swp
-*.swo
 
-# --- Logs & Raw Signal Exports ---
 *.log
 *.csv
 .env
-
