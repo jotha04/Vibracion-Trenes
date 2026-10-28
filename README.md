@@ -56,6 +56,10 @@ O con doble clic en `start_monitor.command` en macOS.
 
 Al iniciar, el sistema calibra el nivel de ruido basal durante 2 segundos y queda listo para registrar impactos.
 
+## Licencia
+
+Distribuido bajo la licencia MIT. Consulta el archivo `LICENSE` para mas detalles.
+
 ---
 
 <div id="english"></div>
@@ -111,3 +115,7 @@ Or double-click `start_monitor.command` on macOS.
 `http://localhost:5000`
 
 The system executes a 2-second baseline electrical noise calibration upon startup and is immediately ready to process impact tests.
+
+## License
+
+Distributed under the MIT License. See the `LICENSE` file for details.
